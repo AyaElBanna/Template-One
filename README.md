@@ -2,3 +2,5 @@
 Practicing on HTML &amp; CSS with ElZero Web School 
 
 ## Project Notes:
+
+### Used Librarys:
